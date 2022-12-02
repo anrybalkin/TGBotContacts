@@ -1,5 +1,5 @@
 # TLBotMTP
-tg bot what import contacts into auth user
+tg bot what import contacts from sheet into profile telegram
 
 
 in Manu.py
